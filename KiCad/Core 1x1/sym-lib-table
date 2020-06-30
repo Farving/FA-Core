@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Core-2x2-rescue)(type Legacy)(uri "${KIPRJMOD}/Core 2x2-rescue.lib")(options "")(descr ""))
+  (lib (name Core-1x1-rescue)(type Legacy)(uri "${KIPRJMOD}/Core 1x1-rescue.lib")(options "")(descr ""))
+)
